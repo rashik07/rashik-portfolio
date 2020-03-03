@@ -1,0 +1,104 @@
+body{
+    margin: 0;
+    font-family: 'Poppins' ;
+
+}
+h1{
+    font-size: 50px;
+   
+}
+h2{
+    font-size: 40px;
+}
+p{
+    color: dimgray;
+}
+.orange-highlight{
+    color: #EC4C7A;
+}
+.half-width{
+    width: 28%;
+    float: left;
+    
+    padding-left: 17%;
+    padding-top: 8%;
+   
+}
+.half-width img{
+    width: 100%;
+    
+    
+
+}
+.top-banner{
+    background-image: url("images/header-bg.png");
+    background-repeat: no-repeat;
+}
+section{
+    height: 1000px;
+ 
+}   
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg,#EC4F92,#EC4C7A);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+}
+.dream-area{
+    background-image: url("images/biography-bg.png");
+    background-repeat: no-repeat;
+   
+}
+.single-experience{
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 5px;
+    height: 80%;
+    background-color: white;
+}
+.latest-work{
+    background-image: url("images/latest-work-bg.png");
+    background-repeat: no-repeat;
+    
+}
+
+
+.my-work{
+    text-align: center;
+}
+.work-images img{
+    width: 30%;
+	float: left;
+	margin: 1.66%;
+}
+.client-section{
+    background-image: url("images/footer-bg.png");
+    background-repeat: no-repeat;
+    padding-top: 5%;
+}
+#client{
+    color: gray;
+}
+.client-say{
+   text-align: center;
+}
+.client-hero{
+    text-align: center;
+    
+    border-radius: 5px;
+    
+    background-image: linear-gradient(45deg,#EC4F92,#EC4C7A);
+  
+   
+    color: white;
+    margin-top: 5%;
+    margin-left: 25%;
+    margin-right: 25%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+footer p{
+    text-align: center;
+    font-size: 12px;
+}
